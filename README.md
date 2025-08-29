@@ -1,4 +1,4 @@
-<img width="1367" height="772" alt="Screenshot 2025-07-04 000600" src="https://github.com/user-attachments/assets/e44db7c3-e3b4-4789-9a0b-7286f7aed6cd" /># 🏏 Cricket Match Analytics Dashboard (2008–2025)
+# 🏏 Cricket Match Analytics Dashboard (2008–2025)
 
 This project is a **Cricket Match Analytics Dashboard** built using **Power BI**, designed to analyze IPL (Indian Premier League) matches from **2008 to 2025**.  
 The dashboard provides **interactive insights** into batting, bowling, and team performances with easy-to-understand visualizations.
